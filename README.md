@@ -12,3 +12,10 @@ A curated list of frontier AI evaluation benchmarks, long-horizon agent test sui
 - **[HumanEval](https://github.com/openai/human-eval)** - Classic function-level Python code completion benchmark by OpenAI.
 - **[LiveCodeBench](https://livecodebench.github.io/)** - Contamination-free coding benchmark featuring periodic problems from LeetCode, AtCoder, and Codeforces.
 - **[RepoBench](https://github.com/Leolty/repobench)** - Benchmark for multi-file code completion and cross-file repository retrieval.
+
+## 📐 Mathematical Reasoning & RLVR (Reinforcement Learning with Verifiable Rewards)
+
+- **[MATH-500](https://github.com/openai/prm800k)** - 500 challenging high-school and Olympiad mathematics problems with symbolic answers.
+- **[GSM8K](https://github.com/openai/grade-school-math)** - Grade school math word problems evaluating multi-step arithmetic reasoning.
+- **[OlympiadBench](https://github.com/OpenBMB/OlympiadBench)** - Bilingual Olympiad-tier mathematics and physics competition benchmark.
+- **[MiniF2F](https://github.com/openai/miniF2F)** - Formal mathematics formalization benchmark targeting Lean, Isabelle, and Metamath.
