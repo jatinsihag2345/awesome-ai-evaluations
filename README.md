@@ -22,9 +22,15 @@ A curated list of frontier AI evaluation benchmarks, long-horizon agent test sui
 ## 📐 Mathematical Reasoning & RLVR
 - **[MATH-500](https://github.com/openai/prm800k)** - 500 challenging high-school and Olympiad mathematics problems with symbolic answers.
 - **[GSM8K](https://github.com/openai/grade-school-math)** - Grade school math word problems evaluating multi-step arithmetic reasoning.
-- **[OlympiadBench](https://github.com/OpenBMB/OlympiadBench)** - Bilingual Olympiad-tier mathematics and physics competition benchmark.
 
 ## 🛡️ Model Red-Teaming, Alignment & Jailbreak
 - **[HarmBench](https://www.harmbench.org/)** - Standardized evaluation framework for automated red-teaming and safety jailbreak defenses.
 - **[JailbreakBench](https://jailbreakbench.github.io/)** - Open-source benchmark for robust adversarial attack and defense tracking.
 - **[Model-Redteam-Atlas](https://github.com/jatinsihag2345/model-redteam-atlas)** - 250+ adversarial vectors testing prompt injections, canary leaks, sycophancy, and autonomous breakout attempts.
+
+## 🛠️ Evaluation Frameworks & Toolkits
+- **[Inspect AI](https://inspect.ai-safety-institute.org.uk/)** - UK AI Safety Institute's framework for large language model evaluations.
+- **[OpenAI Evals](https://github.com/openai/evals)** - Framework for evaluating LLMs and LLM-powered systems.
+- **[DeepEval](https://github.com/confident-ai/deepeval)** - Production-grade unit testing framework for LLM applications.
+- **[Promptfoo](https://www.promptfoo.dev/)** - Fast, lightweight CLI evaluation tool for prompt engineering and red-teaming.
+- **[LLM-Eval-Toolkit](https://github.com/jatinsihag2345/llm-eval-toolkit)** - Modular Python SDK for deterministic grading, AST semantic diffing, and fuzzy scoring.
