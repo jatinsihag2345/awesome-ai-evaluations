@@ -1,0 +1,11 @@
+Benchmark,Domain,Modalities,Verifier Type,Paper Year
+SWE-bench,Code,Text,Pytest Oracle,2023
+SWE-bench Lite,Code,Text,Pytest Oracle,2024
+LiveCodeBench,Code,Text,Subprocess Unit Tests,2024
+GAIA,General Assistant,Multimodal (PDF/Audio/Web),Quasi-Exact String Match,2023
+WebArena,Web Navigation,Web/DOM,Dynamic State Assertion,2023
+OSWorld,OS Control,GUI / Linux,OS State Inspection,2024
+MATH-500,Math,LaTeX,SymPy Symbolic Equivalence,2024
+GSM8K,Math,Text,Strict Exact Number,2021
+TerminalBench,Terminal/Sysadmin,Bash/Linux,Directory State & Exit Code,2024
+HarmBench,Red-Teaming,Text,Automated LLM Classifier,2024
