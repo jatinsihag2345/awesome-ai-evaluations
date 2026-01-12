@@ -5,6 +5,11 @@
 
 A curated list of frontier AI evaluation benchmarks, long-horizon agent test suites, terminal sandboxes, RLVR math verifiers, and red-teaming datasets.
 
+## 🧠 Chain-of-Thought & Reasoning Trace Benchmarks
+- **[AIME 2024/2025](https://artofproblemsolving.com/wiki/index.php/AIME_Problems_and_Solutions)** - American Invitational Mathematics Examination benchmark for high-compute reasoning models.
+- **[GPQA Diamond](https://github.com/idavidrein/gpqa)** - Google-proof Q&A benchmark vetted by domain experts in biology, physics, and chemistry.
+- **[CoT-Reasoning-Auditor](https://github.com/jatinsihag2345/cot-reasoning-auditor)** - Reasoning trace audit toolkit for evaluating logical coherence, circular reasoning, and overthinking token penalties.
+
 ## 🏛️ Code & Software Engineering Benchmarks
 - **[SWE-bench](https://www.swebench.com/)** - Resolving real-world GitHub issues using repository-level context and pytest oracle suites.
 - **[SWE-bench Lite](https://www.swebench.com/lite.html)** - 300 selected self-contained SWE-bench instances for faster iteration and model evaluation.
@@ -22,15 +27,9 @@ A curated list of frontier AI evaluation benchmarks, long-horizon agent test sui
 ## 📐 Mathematical Reasoning & RLVR
 - **[MATH-500](https://github.com/openai/prm800k)** - 500 challenging high-school and Olympiad mathematics problems with symbolic answers.
 - **[GSM8K](https://github.com/openai/grade-school-math)** - Grade school math word problems evaluating multi-step arithmetic reasoning.
+- **[RLVR-Math-Verifiers](https://github.com/jatinsihag2345/rlvr-math-verifiers)** - Deterministic mathematical and symbolic verification environments for Reinforcement Learning with Verifiable Rewards.
 
 ## 🛡️ Model Red-Teaming, Alignment & Jailbreak
 - **[HarmBench](https://www.harmbench.org/)** - Standardized evaluation framework for automated red-teaming and safety jailbreak defenses.
 - **[JailbreakBench](https://jailbreakbench.github.io/)** - Open-source benchmark for robust adversarial attack and defense tracking.
 - **[Model-Redteam-Atlas](https://github.com/jatinsihag2345/model-redteam-atlas)** - 250+ adversarial vectors testing prompt injections, canary leaks, sycophancy, and autonomous breakout attempts.
-
-## 🛠️ Evaluation Frameworks & Toolkits
-- **[Inspect AI](https://inspect.ai-safety-institute.org.uk/)** - UK AI Safety Institute's framework for large language model evaluations.
-- **[OpenAI Evals](https://github.com/openai/evals)** - Framework for evaluating LLMs and LLM-powered systems.
-- **[DeepEval](https://github.com/confident-ai/deepeval)** - Production-grade unit testing framework for LLM applications.
-- **[Promptfoo](https://www.promptfoo.dev/)** - Fast, lightweight CLI evaluation tool for prompt engineering and red-teaming.
-- **[LLM-Eval-Toolkit](https://github.com/jatinsihag2345/llm-eval-toolkit)** - Modular Python SDK for deterministic grading, AST semantic diffing, and fuzzy scoring.
