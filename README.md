@@ -5,20 +5,22 @@
 
 A curated list of frontier AI evaluation benchmarks, long-horizon agent test suites, terminal sandboxes, RLVR math verifiers, and red-teaming datasets.
 
+## 🔧 Tool Use & Function Calling Benchmarks
+- **[Agentic-Tool-Use-Eval](https://github.com/jatinsihag2345/agentic-tool-use-eval)** - Comprehensive benchmark evaluating function calling, nested JSON schema compliance, and multi-tool orchestration in LLM agents.
+- **[Berkeley Function Calling Leaderboard (BFCL)](https://gorilla.cs.berkeley.edu/leaderboard.html)** - Gorilla LLM's live evaluation for tool call generation across AST, execution, and multi-turn dialogues.
+- **[ToolBench](https://github.com/OpenBMB/ToolBench)** - Open-source framework for training and evaluating models on 16,000+ real-world REST APIs.
+
 ## 🧭 Long-Horizon Multi-Step Agent Trajectories
 - **[Long-Horizon-Agent-Stress-Bench](https://github.com/jatinsihag2345/long-horizon-agent-stress-bench)** - Cognitive audit suite evaluating frontier LLM agent degradation, context compaction loss, and state hallucination across 15-30+ step trajectories.
 - **[TravelPlanner](https://github.com/OSU-NLP-Group/TravelPlanner)** - Multi-step planning benchmark testing constraint satisfaction and environment search.
-- **[Mind2Web](https://osu-nlp-group.github.io/Mind2Web/)** - Dataset for developing and evaluating generalist web agents.
 
 ## 🧠 Chain-of-Thought & Reasoning Trace Benchmarks
 - **[AIME 2024/2025](https://artofproblemsolving.com/wiki/index.php/AIME_Problems_and_Solutions)** - American Invitational Mathematics Examination benchmark.
-- **[GPQA Diamond](https://github.com/idavidrein/gpqa)** - Google-proof Q&A benchmark vetted by domain experts in biology, physics, and chemistry.
 - **[CoT-Reasoning-Auditor](https://github.com/jatinsihag2345/cot-reasoning-auditor)** - Reasoning trace audit toolkit for evaluating logical coherence and fallacy detection.
 
 ## 🏛️ Code & Software Engineering Benchmarks
 - **[SWE-bench](https://www.swebench.com/)** - Resolving real-world GitHub issues using repository-level context and pytest oracle suites.
 - **[SWE-bench-Task-Forge](https://github.com/jatinsihag2345/swe-bench-task-forge)** - Toolchain and verification pipeline for authoring and verifying SWE-bench instances.
-- **[LiveCodeBench](https://livecodebench.github.io/)** - Contamination-free coding benchmark featuring periodic competitive programming problems.
 
 ## 🖥️ Terminal & Operating System Sandboxes
 - **[TerminalBench](https://github.com/jatinsihag2345/terminal-bench-eval)** - Sandboxed CLI and OS benchmark harness evaluating autonomous sysadmin and coding agents.
