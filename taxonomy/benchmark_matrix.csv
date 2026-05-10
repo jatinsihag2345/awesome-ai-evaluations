@@ -9,3 +9,5 @@ MATH-500,Math,LaTeX,SymPy Symbolic Equivalence,2024
 GSM8K,Math,Text,Strict Exact Number,2021
 TerminalBench,Terminal/Sysadmin,Bash/Linux,Directory State & Exit Code,2024
 HarmBench,Red-Teaming,Text,Automated LLM Classifier,2024
+Agentic-Tool-Use-Eval,Tool Orchestration,JSON/REST,Schema & DAG Validator,2024
+Long-Horizon-Stress-Bench,Cognitive Decay,Trajectories,15-30 Step Auditor,2024
