@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you find this curated collection useful in your AI evaluation research, please cite it."
+title: "Awesome AI Evaluations & Agent Benchmarks"
+authors:
+  - family-names: "Sihag"
+    given-names: "Jatin"
+url: "https://github.com/jatinsihag2345/awesome-ai-evaluations"
+date-released: 2025-07-22
