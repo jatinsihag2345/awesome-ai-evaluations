@@ -5,10 +5,14 @@
 
 A curated list of frontier AI evaluation benchmarks, long-horizon agent test suites, terminal sandboxes, RLVR math verifiers, and red-teaming datasets.
 
+## 🧪 Synthetic Data & Distillation Quality Evaluations
+- **[UltraFeedback](https://github.com/OpenBMB/UltraFeedback)** - Large-scale multi-turn preference dataset and evaluation framework for RLHF alignment.
+- **[LMSYS Chatbot Arena](https://chat.lmsys.org/)** - Crowdsourced open platform for LLM evaluations using Elo rating system.
+- **[AlpacaEval](https://github.com/tatsu-lab/alpaca_eval)** - Fast, affordable, and reliable automated evaluation using GPT-4 and frontier judge models.
+
 ## 🔧 Tool Use & Function Calling Benchmarks
 - **[Agentic-Tool-Use-Eval](https://github.com/jatinsihag2345/agentic-tool-use-eval)** - Comprehensive benchmark evaluating function calling, nested JSON schema compliance, and multi-tool orchestration in LLM agents.
 - **[Berkeley Function Calling Leaderboard (BFCL)](https://gorilla.cs.berkeley.edu/leaderboard.html)** - Gorilla LLM's live evaluation for tool call generation across AST, execution, and multi-turn dialogues.
-- **[ToolBench](https://github.com/OpenBMB/ToolBench)** - Open-source framework for training and evaluating models on 16,000+ real-world REST APIs.
 
 ## 🧭 Long-Horizon Multi-Step Agent Trajectories
 - **[Long-Horizon-Agent-Stress-Bench](https://github.com/jatinsihag2345/long-horizon-agent-stress-bench)** - Cognitive audit suite evaluating frontier LLM agent degradation, context compaction loss, and state hallucination across 15-30+ step trajectories.
